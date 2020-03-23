@@ -24,7 +24,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int n = 1000_0000;
+        int n = 1000_000;
 
         MaxHeap<Integer> maxHeap = new MaxHeap<>();
         Random random = new Random();
